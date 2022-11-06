@@ -54,3 +54,4 @@ package-lock.json
 
 # local files
 _localNotes.txt
+uploadFile/*
